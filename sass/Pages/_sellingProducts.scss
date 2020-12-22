@@ -1,9 +1,9 @@
 .sellingProducts {
     max-width: 1230px;
+    padding: 60px 15px 30px;
     width: 100%;
     margin: auto;
     .sellingProducts__content {
-        padding-top: 60px;
         .categoryTitle {
             @include text($color-black-1, 24px, $fw-bold + 100);
             line-height: 1.3;
