@@ -3,6 +3,7 @@
 // Helpers
 @import "./Helper/variable";
 @import "./Helper/mixin";
+@import "./Helper/extend";
 // Layout
 @import "./Pages/header";
 @import "./Pages/carousel";
@@ -13,3 +14,8 @@
 @import "./Pages/postSpecial";
 @import "./Pages/information";
 @import "./Pages/footer";
+@import "./Pages/menuCategory";
+@import "./Pages/categoryPage";
+@import "./Pages/viewCart";
+@import "./Pages/payment";
+@import "./Pages/forgotPassword";
